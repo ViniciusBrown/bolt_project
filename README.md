@@ -1,7 +1,5 @@
-![image](https://github.com/user-attachments/assets/ce78f52d-734a-4c0d-8aee-5c968e28e8ef)# Twitter Sentiment Dashboard
-
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=2274&auto=format&fit=crop" alt="Twitter Sentiment Dashboard" width="600"/>
+  <img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=2274&auto=format&fit=crop" alt="Twitter Sentiment Dashboard" width="400"/>
   <p><em>A powerful dashboard for analyzing company sentiment on Twitter</em></p>
 </div>
 
