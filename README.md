@@ -1,4 +1,4 @@
-# Twitter Sentiment Dashboard
+![image](https://github.com/user-attachments/assets/ce78f52d-734a-4c0d-8aee-5c968e28e8ef)# Twitter Sentiment Dashboard
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=2274&auto=format&fit=crop" alt="Twitter Sentiment Dashboard" width="600"/>
@@ -21,14 +21,11 @@ Twitter Sentiment Dashboard is a modern web application that analyzes and visual
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="https://i.imgur.com/JQtZDLm.png" alt="Dashboard Overview" width="800"/>
+  <img src="https://github.com/user-attachments/assets/72639100-39c2-42be-8fa8-4e630e3edf4e" alt="Dashboard Overview" width="800"/>
   <p><em>Main Dashboard View</em></p>
   
-  <img src="https://i.imgur.com/8XYZ123.png" alt="Sentiment Trends" width="800"/>
-  <p><em>Sentiment Trend Analysis</em></p>
-  
-  <img src="https://i.imgur.com/ABC456.png" alt="Top Tweets" width="800"/>
-  <p><em>Top Tweets and Key Topics</em></p>
+  <img src="https://github.com/user-attachments/assets/05f003db-fb12-40a4-bc92-bfb28897a612" alt="Top Tweets" width="800"/>
+  <p><em>Signup/Login</em></p>
 </div>
 
 ## 🏗️ Architecture
