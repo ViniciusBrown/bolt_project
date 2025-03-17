@@ -187,7 +187,7 @@ The tweets are stored in a table with the following structure:
 | user_profile_image_url | String    | Profile image URL                     |
 | user_followers_count   | Integer   | Number of followers                   |
 | retweet_count          | Integer   | Number of retweets                    |
-| reply_count          | Integer   | Number of replies                     |
+| reply_count            | Integer   | Number of replies                     |
 | like_count             | Integer   | Number of likes                       |
 | quote_count            | Integer   | Number of quote tweets                |
 | entities               | JSON      | Additional entities (hashtags, etc.)  |
